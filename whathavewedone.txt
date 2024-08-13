@@ -1,0 +1,13 @@
+Cal.h
+
+created Time class-
+  1. Time take input with Time_obj.input()
+  2. show time with Time_obj.show()
+
+created Interval class-
+  1.take input with input
+  2.show with show()
+
+created linkedlist Timetable-
+    1.we add interval with insert(interval) which sends true if successful else sends false on failure. 
+    
